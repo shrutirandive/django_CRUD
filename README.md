@@ -13,7 +13,7 @@ READ these details
 DELETE specific country from database
 
 The list of countries have :
-- Using **django.contrib.humanize** **Polulation** is represented in million/billion
+- **Polulation** is represented in million/billion using **django.contrib.humanize** 
 - Country code and capital is in proper format i.e. in Capitalize and uppercase
 - **Search** option any **country** or its **captial**
 
