@@ -15,6 +15,6 @@ DELETE specific country from database
 The list of countries have :
 - **Polulation** is represented in million/billion using **django.contrib.humanize** 
 - Country code and capital is in proper format i.e. in Capitalize and uppercase
-- **Search** option any **country** or its **captial**
+- **Search** filter for any **country** and also be applied to its **captial** or **code**
 
 
