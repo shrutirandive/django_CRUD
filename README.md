@@ -1,5 +1,5 @@
 # django_CRUD_CountryDetails_with_Search_option
-CRUD for Country Information with Search option and other features.....
+Basic CRUD operation for Information realted to Country with Search option and other features.....
 
 ADD country details:
 
@@ -12,7 +12,7 @@ READ these details
 
 DELETE specific country from database
 
-The list of countries have :
+The list of countries have following features:
 - **Polulation** is represented in million/billion using **django.contrib.humanize** 
 - Country code and capital is in proper format i.e. in Capitalize and uppercase
 - **Search** filter for any **country** and also be applied to its **capital** or **code**
